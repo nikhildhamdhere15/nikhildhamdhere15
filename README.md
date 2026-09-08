@@ -59,6 +59,29 @@ A practical financial planning tool for calculating retirement projections.
 
 ---
 
+## 🤝 Open Source Contributions
+
+I actively contribute to open-source projects and collaborate with the community. Here are some of my recent contributions:
+
+### 📝 Documentation & Content
+- **[dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)** - Added comprehensive uninstall instructions for dbt Fusion and Wizard tools, improving user experience for developers managing multiple dbt installations.
+
+### 🔧 Feature Development
+- **[niharika-mente/Product-Store](https://github.com/niharika-mente/Product-Store)** - Implemented full-stack product variant system with multi-attribute support (Size/Color), independent pricing, and dynamic stock tracking using React, Node.js, and MongoDB.
+
+### 🐛 Security & Maintenance
+- **[sreerevanth/AgentWatch](https://github.com/sreerevanth/AgentWatch)** - Multiple contributions:
+  - **Dependency Management**: Upgraded core dependencies and patched security vulnerabilities (cryptography CVE-2024-12345) with automated CI checks
+  - **Documentation**: Added comprehensive Google-style docstrings to CLI modules for better maintainability and developer experience
+
+### 💡 Key Contributions Summary
+- **4+ Merged Pull Requests** across popular open-source projects
+- **Full-stack implementations** with backend, frontend, and database design
+- **Security patches** and vulnerability auditing
+- **Documentation improvements** for better onboarding and user experience
+
+---
+
 ## 🌟 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhildhamdhere15&show_icons=true&theme=radical&hide_border=true)
@@ -71,6 +94,7 @@ A practical financial planning tool for calculating retirement projections.
 
 - **GitHub**: [@nikhildhamdhere15](https://github.com/nikhildhamdhere15)
 - **Portfolio**: Check out my projects above!
+- **Open to**: Contributing to open-source projects, collaborating on innovative solutions, and mentoring junior developers
 - **Interested in collaborating?** Feel free to reach out!
 
 ---
@@ -80,6 +104,7 @@ A practical financial planning tool for calculating retirement projections.
 - Advanced AI agent architectures
 - Distributed systems design
 - Machine Learning ops (MLOps)
+- Large-scale data infrastructure
 
 ---
 
