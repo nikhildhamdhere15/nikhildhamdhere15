@@ -12,6 +12,16 @@ Welcome to my GitHub! I'm passionate about building scalable applications, data 
 
 ---
 
+## 🤝 Open Source Contributor
+
+Contributing to impactful projects that shape the developer ecosystem:
+
+- **dbt-labs/docs.getdbt.com** — Documentation improvements for data transformation tools
+- **niharika-mente/Product-Store** — E-commerce platform enhancements  
+- **sreerevanth/AgentWatch** — AI agent monitoring & security patches
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 [AgentWatch](https://github.com/nikhildhamdhere15/AgentWatch)
@@ -56,29 +66,6 @@ A practical financial planning tool for calculating retirement projections.
 - **Full-Stack Development**: End-to-end application development
 - **AI & Observability**: Agent monitoring and reasoning auditing
 - **Database Design**: SQL, data modeling, optimization
-
----
-
-## 🤝 Open Source Contributions
-
-I actively contribute to open-source projects and collaborate with the community. Here are some of my recent contributions:
-
-### 📝 Documentation & Content
-- **[dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)** - Added comprehensive uninstall instructions for dbt Fusion and Wizard tools, improving user experience for developers managing multiple dbt installations.
-
-### 🔧 Feature Development
-- **[niharika-mente/Product-Store](https://github.com/niharika-mente/Product-Store)** - Implemented full-stack product variant system with multi-attribute support (Size/Color), independent pricing, and dynamic stock tracking using React, Node.js, and MongoDB.
-
-### 🐛 Security & Maintenance
-- **[sreerevanth/AgentWatch](https://github.com/sreerevanth/AgentWatch)** - Multiple contributions:
-  - **Dependency Management**: Upgraded core dependencies and patched security vulnerabilities (cryptography CVE-2024-12345) with automated CI checks
-  - **Documentation**: Added comprehensive Google-style docstrings to CLI modules for better maintainability and developer experience
-
-### 💡 Key Contributions Summary
-- **4+ Merged Pull Requests** across popular open-source projects
-- **Full-stack implementations** with backend, frontend, and database design
-- **Security patches** and vulnerability auditing
-- **Documentation improvements** for better onboarding and user experience
 
 ---
 
