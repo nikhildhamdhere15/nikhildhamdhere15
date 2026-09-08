@@ -1,5 +1,11 @@
 # Hey there! 👋 I'm Nikhil Dhamdhere
 
+<div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=nikhildhamdhere15&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nikhildhamdhere15)
+
+</div>
+
 ### Full-Stack Developer | Data Engineer | Cloud Architect
 
 Welcome to my GitHub! I'm passionate about building scalable applications, data pipelines, and AI-powered solutions. With expertise in cloud technologies, serverless architectures, and data engineering, I transform ideas into impactful products.
