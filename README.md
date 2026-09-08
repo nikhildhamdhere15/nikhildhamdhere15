@@ -12,16 +12,6 @@ Welcome to my GitHub! I'm passionate about building scalable applications, data 
 
 ---
 
-## 🤝 Open Source Contributor
-
-Contributing to impactful projects that shape the developer ecosystem:
-
-- **dbt-labs/docs.getdbt.com** — Documentation improvements for data transformation tools
-- **niharika-mente/Product-Store** — E-commerce platform enhancements  
-- **sreerevanth/AgentWatch** — AI agent monitoring & security patches
-
----
-
 ## 🚀 Featured Projects
 
 ### 🤖 [AgentWatch](https://github.com/nikhildhamdhere15/AgentWatch)
@@ -81,7 +71,6 @@ A practical financial planning tool for calculating retirement projections.
 
 - **GitHub**: [@nikhildhamdhere15](https://github.com/nikhildhamdhere15)
 - **Portfolio**: Check out my projects above!
-- **Open to**: Contributing to open-source projects, collaborating on innovative solutions, and mentoring junior developers
 - **Interested in collaborating?** Feel free to reach out!
 
 ---
